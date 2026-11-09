@@ -1,0 +1,12 @@
+{
+    "cards": [
+        {
+            "suit": "Hearts",
+            "value": 7
+        },
+        {
+            "suit": "Hearts",
+            "value": 8
+        }
+    ]
+}
